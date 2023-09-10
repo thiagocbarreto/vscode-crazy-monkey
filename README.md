@@ -2,6 +2,8 @@
 
 Just for laughs, Crazy Monkey will insert a random string at a random line position in your active file every 5 minutes (configurable) and save it. Don't worry: you can stop this anytime by calling the "Stop Crazy Monkey" command.
 
+![Usage GIF](https://github.com/thiagocbarreto/vscode-crazy-monkey/blob/main/usage.gif?raw=true)
+
 ## Features
 
 ### Commands
