@@ -13,7 +13,7 @@ Just for laughs, Crazy Monkey will insert a random string at a random line posit
 
 This extension contributes the following settings:
 
-* `crazy-monkey.minStringLength`: Minimum length of the generated random string.
+* `crazy-monkey.interval`: Set the time interval in minutes between each random line insertion (default is 0.05 minutes = 1.2 second).
 
 ## Misc
 
