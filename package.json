@@ -2,7 +2,7 @@
   "name": "crazy-monkey",
   "displayName": "Crazy Monkey",
   "description": "Just for laughs, Crazy Monkey will insert a random string at a random line position in your active file every 5 minutes (configurable) and save it. Don't worry: you can stop this anytime by calling the `Stop Crazy Monkey` command.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "thiagobarreto",
   "author": {
     "name": "Thiago Barreto"
